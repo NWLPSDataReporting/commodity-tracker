@@ -1,12 +1,14 @@
 Commodity,Date,Price
-Brent Crude Oil,2026-09-14,108.85
-Synthetic Rubber,2026-09-14,15975.0
-Polypropylene,2026-09-14,8948.0
-Polyethylene,2026-09-14,8634.0
-Kraft Pulp,2026-09-14,4792.0
-Cotton,2026-09-14,86.2
-Nickel,2026-09-14,16420.0
-Aluminium,2026-09-14,3251.69995
-Copper,2026-09-14,6.307
-Natural Gas,2026-09-14,2.86
-Freight,2026-09-14,3662.1765
+Brent Crude Oil,2026-09-15,107.01
+Synthetic Rubber,2026-09-15,15441.67
+Natural Rubber,2026-09-14,237.89999
+Polypropylene,2026-09-15,8903.0
+Polyethylene,2026-09-15,8648.0
+Kraft Pulp,2026-09-15,4742.0
+Cotton,2026-09-15,84.5
+Nickel,2026-09-15,16280.0
+Aluminium,2026-09-15,3261.3501
+Copper,2026-09-15,6.3575
+Natural Gas,2026-09-15,2.942
+Electricity,2026-09-14,158.0
+Freight,2026-09-15,3662.1765
